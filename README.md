@@ -1,2 +1,6 @@
 # hello-world
-My first repository 
+=============
+
+Hi people!
+
+Editing the other branch is pretty simple. 
